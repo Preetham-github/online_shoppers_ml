@@ -145,7 +145,7 @@ python -m venv venv
 source venv/bin/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-streamlit run src/app.py
+python -m streamlit run app.py
 ```
 
 To retrain models (this is separate from running the Streamlit app):
