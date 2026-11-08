@@ -24,9 +24,7 @@ Categorical: `Month`, `OperatingSystems`, `Browser`, `Region`, `TrafficType`, `V
 
 ## 3. GitHub repository link
 
-Add the public or evaluator-accessible repository URL here before submission:
-
-`<ADD YOUR GITHUB REPOSITORY URL>`
+https://github.com/Preetham-github/online_shoppers_ml
 
 ## 4. Models used and evaluation metrics
 
