@@ -1,0 +1,25 @@
+{
+    "Logistic Regression": {
+        "classifier__C": 0.1,
+        "classifier__solver": "lbfgs"
+    },
+    "Decision Tree": {
+        "classifier__criterion": "entropy",
+        "classifier__max_depth": 5,
+        "classifier__min_samples_leaf": 5,
+        "classifier__min_samples_split": 2
+    },
+    "KNN": {
+        "classifier__n_neighbors": 15,
+        "classifier__p": 1,
+        "classifier__weights": "distance"
+    },
+    "Gaussian Naive Bayes": {
+        "classifier__var_smoothing": 1e-07
+    },
+    "SVM": {
+        "classifier__C": 1.0,
+        "classifier__gamma": "auto",
+        "classifier__kernel": "rbf"
+    }
+}
